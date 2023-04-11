@@ -25,4 +25,11 @@ To understand how data quality was assessed and enhanced for this project, pleas
 
 - [Data quality assessment and enhancement pipeline](Data%20quality%20assessment%20and%20enhancement%20pipeline.pdf)
 
+
+## Buckets For Federated Registries
+
+To understand how data computed for the federated registries of this project, please refer to the following file:
+
+- [Buckets For Federated Registries](Buckets%20for%20federated%20registries.pdf)
+
 For more information and details, please refer to the respective files.
